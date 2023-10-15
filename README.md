@@ -1,2 +1,3 @@
 # dpi-fpga-systems
-repo with example for fpga-systems
+DPI - Direct Programming Interface.
+repo with example for fpga-systems.
